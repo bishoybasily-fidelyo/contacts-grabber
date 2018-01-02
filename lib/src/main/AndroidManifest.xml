@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.fidelyo.contactsgrabber">
+
+    <application>
+        <activity
+            android:name="com.fidelyo.contactsgrabber.ActivityContactsGrabber"
+            android:label="@string/title_activity_contacts_grabber"
+            android:theme="@style/AppTheme.NoActionBar" />
+    </application>
+
+</manifest>
